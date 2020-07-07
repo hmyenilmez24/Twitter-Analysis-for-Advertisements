@@ -1,16 +1,16 @@
 # TwitterDataAnalysisForAds
 
-* Twitter4J to fetch tweets posted from Ankara/Turkey location. 
+* Twitter4J framework to fetch tweets posted from Ankara/Turkey location. 
 
-* Choosing Text-based advertisement and find similarities between this advertisement and users.
+* Choosing a Text-based advertisement and finding similarities between this advertisement and target users.
 
-* Finding users(target group) that are interested in this advertisement.
+* Finding users(target group) who are interested in this advertisement.
 
-* Dividing target group in connected people clusters. 
+* Dividing the target group in connected user clusters. 
 
-* Assuming that when I send advertisement to a person in each cluster, the others can see this advertisement from their cluster members.
+* Assuming that when I send advertisement to a person in each cluster, the others can see this advertisement from their cluster members' tweet.
 
-* Agglomerative Clustering algorithm to cluster target users and Cosine Similarity algorithm to find user similarities between user to user and user to advertisement.  
+* Agglomerative Clustering algorithm has been used to cluster/categorise target users and Cosine Similarity algorithm to find user similarities between user to user and user to advertisement.  
 
 
 ![Screenshot](pathway.png)
